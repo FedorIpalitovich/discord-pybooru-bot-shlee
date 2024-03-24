@@ -1,2 +1,2 @@
-# discord-pybooru-bot-shlee
- vova sosi
+# gelbooru bot for discord
+###### ~~vova sosi~~
