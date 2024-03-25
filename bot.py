@@ -40,7 +40,7 @@ async def user_request_handling(message: Message, user_message: str) -> dict:
 
     if content_tags[0] == '!random':
         user_request['random'] = True
-        await message.channel.send('рандом не работает')
+        await message.channel.send('питон для пидорасов')
     elif content_tags[0] != '!search':
         await message.channel.send('питон для пидорасов')
         return None
